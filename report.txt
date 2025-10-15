@@ -1,0 +1,3 @@
+Item: banana, Num of orders: 43
+Item: apple, Num of orders: 34
+Item: coconut, Num of orders: 2
